@@ -1,0 +1,7 @@
+opencv-python
+mediapipe==0.10.21
+pyautogui
+numpy
+pycaw
+comtypes
+protobuf>=5.26.0
